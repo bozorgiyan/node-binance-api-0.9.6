@@ -26,6 +26,7 @@ let api = function Binance() {
     const async = require('async');
     const base = 'https://api.binance.com/api/';
     const wapi = 'https://api.binance.com/wapi/';
+    const sapi = 'https://api.binance.com/sapi/';
     const stream = 'wss://stream.binance.com:9443/ws/';
     const combineStream = 'wss://stream.binance.com:9443/stream?streams=';
     const userAgent = 'Mozilla/4.0 (compatible; Node Binance API)';
