@@ -1414,7 +1414,7 @@ let api = function Binance() {
         */
         depositHistory: function (callback, params = {}) {
             if (typeof params === 'string') params = { asset: params }; // Support 'asset' (string) or optional parameters (object)
-            signedRequest(wapi + 'v3/depositHistory.html', params, callback);
+            signedRequest(sapi + 'v1/capital/deposit/hisrec', params, callback);
         },
 
         /**
