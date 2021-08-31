@@ -1403,7 +1403,7 @@ let api = function Binance() {
         */
         withdrawHistory: function (callback, params = {}) {
             if (typeof params === 'string') params = { asset: params };
-            signedRequest(wapi + 'v3/withdrawHistory.html', params, callback);
+            signedRequest(sapi + 'v1/capital/withdraw/history', params, callback);
         },
 
         /**
