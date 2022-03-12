@@ -1661,3 +1661,5 @@ Thank you to all contributors: bmino, dmzoneill, dmitriz, keith1024, pavlovdog, 
 [![jaggedsoft on Twitter](https://img.shields.io/twitter/follow/jaggedsoft.svg?style=social)](https://twitter.com/jaggedsoft)
 [![Chartaholic on Twitter](https://img.shields.io/twitter/follow/Chartaholic.svg?style=social)](https://twitter.com/Chartaholic)
 
+<br>
+Supported by: <a href="https://bittestan.com/" rel="nofollow">Bittestan.com</a>
